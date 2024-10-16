@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuchenwen1&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuchenwen1&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yuchenwen1&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuchenwen1&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuchenwen1&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yuchenwen1&theme=default&utcOffset=8)
 <!--
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuchenwen1&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuchenwen1&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuchenwen1&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuchenwen1&theme=default)
 -->
