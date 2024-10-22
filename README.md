@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 - 💬 Ask me about anything!
 
-- 📫 My email: wenyuchen23z@ict.ac.cn 
+- 📫 My email: yuchenwen1@gmail.com
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
