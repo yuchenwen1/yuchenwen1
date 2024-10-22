@@ -12,15 +12,17 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
 - 💬 Ask me about anything!
+
+- 📫 My email: wenyuchen23z@ict.ac.cn 
 <!--
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuchenwen1&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuchenwen1&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yuchenwen1&theme=default&utcOffset=8)
+-->
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuchenwen1&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuchenwen1&theme=default)
