@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ethics in NLP, especially ethics, bias, and fairness of LLMs/VLMs.
+- 🔭 I’m currently working on AI Safety in NLP, especially ethics, bias, and fairness of LLMs/VLMs.
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
