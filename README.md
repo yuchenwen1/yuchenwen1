@@ -1,4 +1,4 @@
-## 👋Hi there, I'm Yuchen Wen.
+## 👋Hi, I'm Yuchen Wen.
 
 <!--
 **wen112358/wen112358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
