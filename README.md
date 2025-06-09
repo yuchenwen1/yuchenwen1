@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 💬 Eager for any possible academic communications!
 
 - 📫 My email: yuchenwen1@gmail.com
+
+## Projects
+
+- [Psychometrics-inspired Implicit Bias Attack & Evaluation](https://yuchenwen1.github.io/ImplicitBiasEvaluationProjectPage/)
+- [BUMBLE Benchmark](https://github.com/yuchenwen1/BUMBLE)
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
