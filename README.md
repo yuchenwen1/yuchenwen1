@@ -11,8 +11,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 -->
-- 💬 Eager for any possible academic communications!
+
 - 🌱 My personal website: [https://yuchenwen1.github.io/](https://yuchenwen1.github.io/)
+
+- 💬 Eager for any possible academic communications!
+
 - 📫 My email: yuchenwen1@gmail.com
 
 ## My Projects
