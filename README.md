@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## My Projects
 
-- [Psychometrics-inspired Implicit Bias Attack & Evaluation](https://yuchenwen1.github.io/ImplicitBiasEvaluationProjectPage/)
+- [Psychometrics-inspired Implicit Bias Attack & Evaluation](https://yuchenwen1.github.io/ImplicitBiasEvaluation/)
 - [BUMBLE Benchmark](https://github.com/yuchenwen1/BUMBLE)
 <!--
 - 😄 Pronouns: ...
