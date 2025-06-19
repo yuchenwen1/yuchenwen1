@@ -12,16 +12,16 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
 
-- 🌱 My personal website: [https://yuchenwen1.github.io/](https://yuchenwen1.github.io/)
-
 - 💬 Eager for any possible academic communications!
+
+- 🌱 My personal website: [https://yuchenwen1.github.io/](https://yuchenwen1.github.io/)
 
 - 📫 My email: yuchenwen1@gmail.com
 
 ## My Projects
 
 - [Psychometrics-inspired Implicit Bias Attack & Evaluation](https://yuchenwen1.github.io/ImplicitBiasEvaluation/)
-- [BUMBLE Benchmark](https://github.com/yuchenwen1/BUMBLE)
+<!--- [BUMBLE Benchmark](https://github.com/yuchenwen1/BUMBLE)-->
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
